@@ -5,3 +5,4 @@ To use this thing follow steps below,
 ~Run this file in any C++ compiler or IDE. 
 ~Executing in terminal is recommended.
 ~Thats all,enjoy your name in a colourful flower pot.
+~Tested in termux,warnings in compilation can be ignored
